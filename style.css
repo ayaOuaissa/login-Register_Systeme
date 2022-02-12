@@ -1,0 +1,136 @@
+
+    body {
+        background: #222D32;
+        
+        color : white ; 
+        font-family: 'lato', sans-serif;
+    }
+    .box {
+        margin-top: 150px;
+        margin-right: 300px;
+        margin-left: 300px;
+        height: auto;
+        background: #1A2226;
+        text-align: center;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    }
+    
+    .title {
+        margin-top: 15px;
+        text-align: center;
+        font-size: 30px;
+        letter-spacing: 2px;
+        margin-top: 15px;
+        font-weight: bold;
+        color: #92a7bb;
+    }
+    .titleb{
+       
+        align: middle;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 20px;
+        letter-spacing: 1px;
+        margin-top: 15px;
+        color: #a4b6c9;
+        font-family: cursive ;
+        font-style: italic;
+         
+  }
+    
+    .form {
+        margin-top: 25px;
+        margin-bottom: 300px;
+        text-align: center;
+        align: center;
+    }
+    input{
+        background-color: #1A2226;
+        border: none;
+        border-bottom: 2px solid #0DB8DE;
+        border-top: 0px;
+        border-radius: 0px;
+        font-weight: bold;
+        outline: 0;
+        padding-left: 0px;
+        margin-bottom: 20px;
+        color: #ECF0F5;
+    }
+   
+   
+    table{
+        align: center ;
+        padding :  50px  ;
+        margin-left:auto;
+        margin-right:auto;
+    }
+ 
+        img {
+            width: 50px;
+            height: 50px;
+            border: 2px ;
+            border-radius: 3px;
+            background-color: rgb(85, 68, 68);
+            
+            
+          }
+      
+     
+          div{
+            text-align: center;
+            
+          }
+     
+    .liste{
+        align: center ;
+        padding :  50px  ;
+        border : rgb(238, 230, 230);
+       
+        border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: #222D32;
+    }
+    .td{
+        align: center ;
+        padding :  5px  ;
+        
+        color:rgb(240, 239, 243); 
+        background-color: #819d9e; 
+        border-radius: 20px;
+    }
+    
+    .info{
+        align: center ;
+        padding :  5px  ;
+        border-radius: 20px;
+        color:rgb(240, 239, 243); 
+        background-color:#95A5A6;
+    }
+
+    .inputy{
+        padding-right: 0px;
+        text-align: right;
+        margin-bottom: 25px;
+    }
+    
+    .link {
+        text-align: left;
+        padding-left: 0px;
+        color: #A2A4A4;
+    }
+    .center{
+        
+        align: middle;
+        margin-left: auto;
+        margin-right: auto;
+       
+
+    }
+    
+   
